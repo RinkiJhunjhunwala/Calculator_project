@@ -1,2 +1,2 @@
 # Calculator_project
-Web application for performing mathematical operations
+Web application that enables the user to perform basic mathematicals operations
